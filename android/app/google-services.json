@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "793053875001",
+    "project_id": "temis-special-snacks-bd974",
+    "storage_bucket": "temis-special-snacks-bd974.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793053875001:android:a4991c3031d1314ff1f6e8",
+        "android_client_info": {
+          "package_name": "com.example.temi_special_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793053875001-mdf5p8bfl024gal335olbti3ggne3njs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.temi_special_admin",
+            "certificate_hash": "b84afc2bdb548ea1cc7c868d7627baa94100a697"
+          }
+        },
+        {
+          "client_id": "793053875001-9p0qqmg8tg1j6330f8islbavplm83ud9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk_pigPZeWSmX7p7KdmNIb5c3QelK3xMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793053875001-9p0qqmg8tg1j6330f8islbavplm83ud9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "793053875001-am7g7a7mnb0ojlh2s58u01a4ricj7joh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.temisSpecialSnacks"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793053875001:android:757da62acd5deaaaf1f6e8",
+        "android_client_info": {
+          "package_name": "com.example.temis_special_snacks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793053875001-a99e7g224te5cj202fcseak47balrvt8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.temis_special_snacks",
+            "certificate_hash": "b84afc2bdb548ea1cc7c868d7627baa94100a697"
+          }
+        },
+        {
+          "client_id": "793053875001-e1fmsmlgsd7a50dtscjiir3na2cknhjg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.temis_special_snacks",
+            "certificate_hash": "02b9df1a21069aab5839adceb58fcdefc71339e6"
+          }
+        },
+        {
+          "client_id": "793053875001-9p0qqmg8tg1j6330f8islbavplm83ud9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk_pigPZeWSmX7p7KdmNIb5c3QelK3xMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793053875001-9p0qqmg8tg1j6330f8islbavplm83ud9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "793053875001-am7g7a7mnb0ojlh2s58u01a4ricj7joh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.temisSpecialSnacks"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793053875001:android:c0523243a04bde65f1f6e8",
+        "android_client_info": {
+          "package_name": "com.temispecialsnacks.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793053875001-9p0qqmg8tg1j6330f8islbavplm83ud9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk_pigPZeWSmX7p7KdmNIb5c3QelK3xMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793053875001-9p0qqmg8tg1j6330f8islbavplm83ud9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "793053875001-am7g7a7mnb0ojlh2s58u01a4ricj7joh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.temisSpecialSnacks"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
